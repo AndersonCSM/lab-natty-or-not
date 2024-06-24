@@ -18,8 +18,6 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
 ### Template
-
-```markdown
 # Turismo na minha Região
 
 ## 📒 Descrição
@@ -38,11 +36,10 @@ prompt 3: agora estilize e formate a cartilha em linguagem markdown, caprichando
 
 - Leonardo.ia:
 ## 🚀 Resultados
-[Cartilha]()
-[imagem]()
+[Cartilha](cartilha.md)
+[imagem](img.jpg)
 
 ```
-
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)

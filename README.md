@@ -37,7 +37,7 @@ prompt 3: agora estilize e formate a cartilha em linguagem markdown, caprichando
 - Leonardo.ia:
 ## 🚀 Resultados
 
-- ![cartilha](https://github.com/AndersonCSM/lab-natty-or-not/blob/main/cartilha.md)
-- ![imagem](https://github.com/AndersonCSM/lab-natty-or-not/blob/main/img.jpg)
+![cartilha](https://github.com/AndersonCSM/lab-natty-or-not/blob/main/cartilha.md)
+![imagem](https://github.com/AndersonCSM/lab-natty-or-not/blob/main/img.jpg)
 
 

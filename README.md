@@ -20,22 +20,27 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Turismo na minha Região
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto usar IAs generativas para elaborar uma cartilha de turismo e imagens da região nordeste do Brasil para atrair o turismo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- Chat GPT 3.5 -> criação de Textos
+- Leonardo.ia -> criação de imagens
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+- Chat GPT 3.5:
+prompt 1: Olá, assuma o papel de um profissional em turismo e natural da região nordeste do Brasil
+prompt 2: A parte disso, escreve uma cartilha de turismo mais detalhada e precisa possível
+prompt 3: agora estilize e formate a cartilha em linguagem markdown, caprichando na customização
 
+- Leonardo.ia:
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Cartilha]()
+[imagem]()
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
 ### Exemplos e Insigths
